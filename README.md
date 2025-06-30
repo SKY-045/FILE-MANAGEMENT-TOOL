@@ -70,3 +70,6 @@ With a few improvements—like adding input validation, looping for multiple ope
 Conclusion
 Overall, this C++ file management tool is a compact and functional program demonstrating core concepts of file I/O. It provides users with a way to interact with text files through the console, allowing writing, reading, and appending operations. Its clear structure and straightforward logic make it an excellent learning project for anyone starting out with C++ file handling.
 
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/52de65ca-53ec-435c-884d-ffe03ec78ed2)
